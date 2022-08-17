@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomSchouten
 - 👀 I’m interested in data, sports and MTG.
-- 🌱 I’m currently learning how to be a Data Analyst at Ironhack.
+- 🌱 I’m currently IT-Consultant at ALTEN NL.
 - 📫 You can reach me at schoutentom@live.nl
 
 <!---

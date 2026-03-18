@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomSchouten
 - 👀 I’m interested in data, sports and MTG.
-- 🌱 I’m currently IT-Consultant at ALTEN NL.
+- 🌱 I’m currently DevOps at NNBank
 - 📫 You can reach me at schoutentom@live.nl
 
 <!---
